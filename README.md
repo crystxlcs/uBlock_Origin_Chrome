@@ -1,5 +1,6 @@
 # uBlock_Origin_Chrome
-Block your adware in Chrome with uBlock Origin 
+Block your adware in Chrome with uBlock Origin\
+This is only for self documentation !
 
 # Download uBlock Extension
 Download latest version from [uBlock](https://github.com/gorhill/uBlock/releases)
@@ -34,3 +35,9 @@ If you dont have the `Manifest V2` Flags, do this step first
 - To ensure uBlock Origin loads the script I recommend that you restart your Browser.\
 \
 To stop using a script remove the filter and make the url `unset`.
+
+# Credits
+
+[@pixeltris](https://github.com/pixeltris) for JavaScript\
+[@gorhill](https://github.com/gorhill) for uBlock Chrome Extension\
+[@frequencycs/fpsheaven](https://github.com/fpsheaven) for Chrome and registry settings\  
