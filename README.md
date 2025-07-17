@@ -11,7 +11,7 @@ Locate towards the `Chrome Flags`
 - Go to Flags Tab --> chrome://flags/ 
 - Set the Flags like in the Screenshot below
   
-<img width="721" height="650" alt="Screenshot 2025-07-17 084245" src="https://github.com/user-attachments/assets/46f6fdf2-7528-4c90-b1d6-232ce122a247" />
+<img width="733" height="652" alt="Screenshot 2025-07-17 233845" src="https://github.com/user-attachments/assets/890fefcc-3de7-4969-b2d1-53d422033d92" />
 
 If you dont have the `Manifest V2` Flags, do this step first
 - Enter powershell via admin
