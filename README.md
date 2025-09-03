@@ -13,7 +13,6 @@ Locate towards the `Chrome Flags`
 - Set the Flags like in the Screenshot below
   
 <img width="733" height="340" alt="image" src="https://github.com/user-attachments/assets/45cc1610-738c-48ee-b9fe-7d68a310b9ab" />
-" />
 
 - Restart Browser
 
